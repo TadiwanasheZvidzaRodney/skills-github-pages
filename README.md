@@ -7,6 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+![my image](https://images.freeimages.com/images/large-previews/8f9/caution-tape-1228201.jpg)
+# Do not let ChatGPT distract your career!
+### Using ChatGPT has proved very productive to so many devs but as an entry-level or junior dev looking forward to learning a lot of staff in this field, you should try to avoid it and learn the core principles and concepts of development before you get a pushh!
+
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
